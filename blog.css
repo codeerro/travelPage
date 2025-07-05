@@ -1,0 +1,23 @@
+h1{
+    font-size: 50px;
+    padding: 100px 100px 100px 100px;
+    margin: auto;
+    text-align: center;
+    border: 20px solid rgb(160, 67, 121);
+    box-shadow: 10px 5px 50px rgb(199, 199, 62);
+    text-decoration: dashed;
+    color: rgb(95, 64, 124);
+    
+}
+span{
+    text-align: left;
+    font-size: 50px;
+   
+}
+#first{
+    border: 100px solid black;
+    size: 30px;
+    font-size: larger;
+    font-weight: 500px;
+    
+}
